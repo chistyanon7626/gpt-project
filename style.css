@@ -6,6 +6,7 @@
     border: 5px lightgrey;
     border-radius: 16px;
     box-shadow:0 2px 5px rgba(0, 0, 0, 0.08);
+    text-align: center;
 }
 h1{
     color:#1e3a8a;
@@ -40,4 +41,13 @@ a{ background-color: orange;
 a:hover{
     background-color:#ea580c;
 
+}
+#hidden-tip{
+    display: none;
+}
+.body{
+    
+    text-align: center;
+    justify-items: center;
+    
 }
