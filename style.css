@@ -4,5 +4,22 @@
     padding: 20px;
     background:#fffdf7;
     border: 5px lightgrey;
-    border-radius: 16p;
+    border-radius: 16px;
+    box-shadow:0 2px 5px rgba(0, 0, 0, 0.08);
+}
+h1{
+    color:#1e3a8a;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.paragraph{
+    color:#0f172a;
+    line-height:1.5;
+}
+.highlight{
+    color:#2563eb;
+}
+#breath{
+    font-style: italic;
+    color:#16a34a;
 }
